@@ -9,7 +9,7 @@ This repository contains a responsive navigation bar implemented using HTML, CSS
 `preview`
 
 ## Preview:
-![navbar]()
+![navbar](https://github.com/SANJAYSS-SRM-26/Responsive-Navigation-Bar-2/blob/main/preview.jpg)
 
 ## Usage:
 Clone or download the repository to your local machine.
